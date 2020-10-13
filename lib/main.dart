@@ -35,10 +35,11 @@ void main() => runApp(new MaterialApp(
                  crossAxisAlignment : CrossAxisAlignment.stretch,
                  children: <Widget>[
             new Text("Name:" + mydata[index]['Name']),
-new Text("Qualification:" + mydata[index]['Qualification']),
-new Text("Age:" + mydata[index]['Age']),
-new Text("Gender:" + mydata[index]['Gender']),
+        new Text("Age:" + mydata[index]['Age']),
+new Text("Gender:" + mydata[index]['gender']),
 new Text("City:" + mydata[index]['City']),
+new Text("Qualification:" + mydata[index]['Qualification']),
+new Text("color:" + mydata[index]['color']),
                  ],
                ),
              );
