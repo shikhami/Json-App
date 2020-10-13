@@ -1,0 +1,35 @@
+[
+    {
+      "Name": "Shikha Mittal",
+      "Age": "23",
+      "gender": "female",
+      "City": "Meerut",
+      "Qualification": "B.Tech",
+      "color": "Fair"  
+    },
+    {
+      "Name": "Anjali Gupta",
+      "Age": "24",
+      "gender": "female",
+      "City": "Noida",
+      "Qualification": "BBA",
+      "color": "Dark"  
+    },
+
+    {
+        "Name": "Anu Sharma",
+        "Age": "25",
+        "gender": "female",
+        "City": "Greater Noida",
+        "Qualification": "Bsc",
+        "color": "Very Fair" 
+    },
+        {
+          "Name": "Rahul Jindal",
+          "Age": "26",
+          "gender": "male",
+          "City": "Delhi",
+          "Qualification": "B.Pharm",
+          "color": "Dark"  
+        } 
+]
